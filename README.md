@@ -1,9 +1,9 @@
-## Image Processing and Pattern Recognition Lab Work
+## Machine Learning Lab Work
 
 
-This repository contains lab work for the **Image Processing and Pattern Recognition** subject.
+This repository contains lab work for the **Machine learning** subject.
 
-This repository is created to maintain and submit the lab work related to Image Processing and Pattern Recognition.
+This repository is created to maintain and submit the lab work related to Machine Learning.
 
 **Name:** _Bibek Ghimire_
 
